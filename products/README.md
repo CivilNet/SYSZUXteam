@@ -1,9 +1,10 @@
 # 产品和服务
 ## 品牌
-- SYSZUX OCR
-- SYSZUX Cloud
-- SYSZUX Editor
-- SYSZUX Edge
+- DeepVAC OCR
+- DeepVAC Face
+- DeepVAC Cloud
+- DeepVAC Editor
+- DeepVAC Edge
 
 ## 机房（powered by Gemfield）
 - mgcd
