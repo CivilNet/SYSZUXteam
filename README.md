@@ -10,8 +10,8 @@ The team funded by *** and powered by Gemfield.
 # 产品和服务
 请访问[产品和服务](https://github.com/CivilNet/SYSZUXteam/tree/master/products).
 
-# 职位和调整
-请访问[入职和转正]().
+# 职位和职业
+请访问[职位和职业](https://github.com/CivilNet/SYSZUXteam/tree/master/career).
 
 # 薪资和福利
 请访问[薪资和福利](https://github.com/CivilNet/SYSZUXteam/tree/master/benefit).
